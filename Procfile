@@ -1,1 +1,1 @@
-web: py main.py
+web: python NYN_API.py
